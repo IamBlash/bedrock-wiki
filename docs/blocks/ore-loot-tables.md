@@ -97,7 +97,7 @@ The example shown, displays the required components
 			]
 		}
 	]
-{
+}
 ```
 
 ## Specifying Enchantments
